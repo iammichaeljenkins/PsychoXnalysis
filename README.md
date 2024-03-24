@@ -22,6 +22,6 @@ ROADMAP:
 
 8. Allowing the user to get psychological analysis of more than just specific users. Aggregate psychological analysis could be done on certain keywords, hashtags, etc which would use a different function focused on psychologically analyzing groups of people.
    
-9. Adding more available platforms like reddit.
+9. Adding more available platforms like reddit and YouTube (using captions).
 
 10. (MAYBE) Add an image recognition model which can summarize images allowing for more data, increased functionality, and the ability to use the program concept on even image platforms like instagram and snapchat.
