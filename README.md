@@ -4,7 +4,7 @@ Dependencies needed are HuggingFace's Transformers library, PyTorch, and Tweety.
 ROADMAP:
 1. Further fine tuning the AI model with more psychological information. 
    Examples:
-   DSM 5, Big 5, Enneagram data, Myers Briggs, therapist/psychiatrist notes, premade psychology datasets (specifically for AI models), DISC assessment criteria, psycholinguistics, criminal profiling data, books/talks from current top psychoanalysts, Jungian archetypes and theory, APA database, lectures, studies, etc
+   DSM 5, Big 5, Enneagram data, Myers Briggs, therapist/psychiatrist notes, premade psychology datasets (specifically for AI models), DISC assessment criteria, psycholinguistics, criminal profiling data, books/talks from current top psychoanalysts, Jungian archetypes and theory, APA database, lectures, studies, etc.
 
 2. Increase memory effectiveness and efficiency of the AI model in order to shorten the very long analysis time.
 
