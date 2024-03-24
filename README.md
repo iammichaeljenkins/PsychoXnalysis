@@ -1,5 +1,5 @@
 Gives a psychological analysis of a desired Twitter user. 
-Dependencies needed are HuggingFace's Transformers library, PyTorch, and Tweety. To run the program just add the required dependencies and run main.py with the other provided py files in the same folder.
+Dependencies needed are HuggingFace's Transformers library, PyTorch, Accelerate, and Tweety. To run the program just add the required dependencies and run main.py with the other provided py files in the same folder.
 
 ROADMAP:
 1. Further fine tuning the AI model with more psychological information. 
